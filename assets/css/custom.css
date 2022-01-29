@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lato&display=swap');
+
+/*--------------------------------------------Colors*/
+
+.navbar {
+    height: 110px;
+}
+
+.header-navbar {
+    background-color: rgb(255, 251, 245);
+}
+
+.navbar-brand {
+    font-family: "Fredoka+One", sans-serif;
+    font-size: 250%;
+    padding-left: 30px;
+}
+
+.menu-items {
+    margin-left: 1600px;
+    font-size: 120%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(64, 64, 218);
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(64, 64, 218);
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: rgb(207, 111, 0);
+}
+
+img {
+    width: 100%;
+}
+
+.about-us h2 {
+    margin-top: -1300px;
+    margin-left: 1700px;
+    color: orange;
+}
